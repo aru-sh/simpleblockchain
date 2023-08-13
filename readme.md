@@ -1,0 +1,1 @@
+Simplistic version of blockchain
